@@ -35,7 +35,7 @@ import lombok.Getter;
  */
 public enum Category {
   INTRODUCTION("Introduction", 5),
-  GENERAL("General", 100),
+  GENERAL("General", 200),
 
   A1("(A1) Broken Access Control", 301),
   A2("(A2) Cryptographic Failures", 302),
